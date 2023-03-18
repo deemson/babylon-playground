@@ -1,0 +1,1 @@
+[vite boilerplate](https://github.com/paganaye/babylonjs-vite-boilerplate)

@@ -1,0 +1,20 @@
+{
+  "name": "babylon-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "tsc && vite build",
+    "preview": "tsc && vite build && vite preview --host --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "babylonjs": "^5.51.0"
+  }
+}
