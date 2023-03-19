@@ -1,4 +1,4 @@
-import { App } from './ex001rotatefreecamera/App'
+import { App } from './ex002guigridwithtext/App'
 
 window.addEventListener('DOMContentLoaded', () => {
   let canvas = document.getElementById('renderCanvas') as HTMLCanvasElement
