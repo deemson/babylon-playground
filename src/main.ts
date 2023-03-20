@@ -1,4 +1,4 @@
-import { App } from './ex002guigridwithtext/App'
+import { App } from './ex003gamepad/App'
 
 window.addEventListener('DOMContentLoaded', () => {
   let canvas = document.getElementById('renderCanvas') as HTMLCanvasElement
